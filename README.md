@@ -1,4 +1,4 @@
-![image](https://www.codewars.com/users/hellcattc/badges/small) ![image](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fslhtte345&logo=leetcode&logoColor=yellow)
+[![link](https://www.codewars.com/users/hellcattc/badges/small)](https://www.codewars.com/users/hellcattc) [![image](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fslhtte345&logo=leetcode&logoColor=yellow)](https://leetcode.com/slhtte345/)
 
 <!--
 **hellcattc/hellcattc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
